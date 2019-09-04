@@ -1,0 +1,307 @@
+{
+  "status": 200,
+  "message": "",
+  "result": {
+    "isApply": 1,
+    "phaseLockStatus": 1,
+    "moduleVo": {
+      "moduleId": 101703,
+      "nextType": 0,
+      "nextModuleId": 101912,
+      "phaseHomeworkId": null,
+      "phaseHomeworkStatus": 0,
+      "phaseId": 727,
+      "moduleName": "Git版本控制",
+      "studentCourseId": 1078392,
+      "sort": 5,
+      "phaseSort": 1,
+      "mentId": 145,
+      "mentName": "Java",
+      "duration": 3,
+      "nextModuleWhetherCanLearn": true,
+      "sectionItems": [
+        {
+          "sectionId": 111966,
+          "sectionName": "git介绍",
+          "isTry": null,
+          "parentId": 101703,
+          "isPass": 0,
+          "sort": 3,
+          "pointItems": [
+            {
+              "pointId": 10084690,
+              "pointName": "01.git的历史",
+              "parentId": 111966,
+              "sort": 1,
+              "moduleVideoId": null,
+              "videoId": 10084408,
+              "ccVideoId": "578858428D47E2D29C33DC5901307461",
+              "studyStatus": 2,
+              "videoH5Url": null
+            },
+            {
+              "pointId": 10084691,
+              "pointName": "02.git和svn的对比",
+              "parentId": 111966,
+              "sort": 2,
+              "moduleVideoId": null,
+              "videoId": 10084409,
+              "ccVideoId": "E194828E5B1477349C33DC5901307461",
+              "studyStatus": 2,
+              "videoH5Url": null
+            }
+          ],
+          "isSectionTest": 0,
+          "isHomework": 0,
+          "sectionTestStatus": 0
+        },
+        {
+          "sectionId": 111949,
+          "sectionName": "git基本操作",
+          "isTry": null,
+          "parentId": 101703,
+          "isPass": 0,
+          "sort": 4,
+          "pointItems": [
+            {
+              "pointId": 10084689,
+              "pointName": "03.git的安装",
+              "parentId": 111949,
+              "sort": 1,
+              "moduleVideoId": null,
+              "videoId": 10084407,
+              "ccVideoId": "33EDA3570DA244D19C33DC5901307461",
+              "studyStatus": 2,
+              "videoH5Url": null
+            },
+            {
+              "pointId": 10084692,
+              "pointName": "04.创建本地版本库",
+              "parentId": 111949,
+              "sort": 2,
+              "moduleVideoId": null,
+              "videoId": 10084410,
+              "ccVideoId": "447FC60705911D739C33DC5901307461",
+              "studyStatus": 2,
+              "videoH5Url": null
+            },
+            {
+              "pointId": 10084693,
+              "pointName": "05.向本地仓库中添加文件",
+              "parentId": 111949,
+              "sort": 3,
+              "moduleVideoId": null,
+              "videoId": 10084411,
+              "ccVideoId": "5B27A72F66EF464C9C33DC5901307461",
+              "studyStatus": 2,
+              "videoH5Url": null
+            },
+            {
+              "pointId": 10084694,
+              "pointName": "06.修改文件内容并提交",
+              "parentId": 111949,
+              "sort": 4,
+              "moduleVideoId": null,
+              "videoId": 10084412,
+              "ccVideoId": "662A8BA799A094789C33DC5901307461",
+              "studyStatus": 2,
+              "videoH5Url": null
+            },
+            {
+              "pointId": 10084695,
+              "pointName": "07.删除本地仓库中的文件",
+              "parentId": 111949,
+              "sort": 5,
+              "moduleVideoId": null,
+              "videoId": 10084413,
+              "ccVideoId": "C9397696E2835FBD9C33DC5901307461",
+              "studyStatus": 2,
+              "videoH5Url": null
+            },
+            {
+              "pointId": 10084696,
+              "pointName": "08.将Java工程添加到本地版本库",
+              "parentId": 111949,
+              "sort": 6,
+              "moduleVideoId": null,
+              "videoId": 10084414,
+              "ccVideoId": "048D243E3498741D9C33DC5901307461",
+              "studyStatus": 2,
+              "videoH5Url": null
+            },
+            {
+              "pointId": 10084697,
+              "pointName": "09.使用github创建一个远程仓库",
+              "parentId": 111949,
+              "sort": 7,
+              "moduleVideoId": null,
+              "videoId": 10084415,
+              "ccVideoId": "F02D7E64EAD388A19C33DC5901307461",
+              "studyStatus": 2,
+              "videoH5Url": null
+            },
+            {
+              "pointId": 10084698,
+              "pointName": "10.推送到远程仓库介绍",
+              "parentId": 111949,
+              "sort": 8,
+              "moduleVideoId": null,
+              "videoId": 10084416,
+              "ccVideoId": "8A4E50C85D7B63029C33DC5901307461",
+              "studyStatus": 2,
+              "videoH5Url": null
+            },
+            {
+              "pointId": 10084699,
+              "pointName": "11.创建ssh密钥及在github上配置公钥",
+              "parentId": 111949,
+              "sort": 9,
+              "moduleVideoId": null,
+              "videoId": 10084417,
+              "ccVideoId": "EF8D18F7B9114BAA9C33DC5901307461",
+              "studyStatus": 2,
+              "videoH5Url": null
+            },
+            {
+              "pointId": 10084700,
+              "pointName": "12.使用ssh方式将本地仓库推送到远程",
+              "parentId": 111949,
+              "sort": 10,
+              "moduleVideoId": null,
+              "videoId": 10084418,
+              "ccVideoId": "D5CC5F29D605EB449C33DC5901307461",
+              "studyStatus": 2,
+              "videoH5Url": null
+            },
+            {
+              "pointId": 10084701,
+              "pointName": "13.使用https方式将本地仓库推送到远程",
+              "parentId": 111949,
+              "sort": 11,
+              "moduleVideoId": null,
+              "videoId": 10084419,
+              "ccVideoId": "430E7E10F046AFD69C33DC5901307461",
+              "studyStatus": 2,
+              "videoH5Url": null
+            },
+            {
+              "pointId": 10084702,
+              "pointName": "14.克隆远程仓库到本地",
+              "parentId": 111949,
+              "sort": 12,
+              "moduleVideoId": null,
+              "videoId": 10084420,
+              "ccVideoId": "DB10576277013A679C33DC5901307461",
+              "studyStatus": 2,
+              "videoH5Url": null
+            },
+            {
+              "pointId": 10084703,
+              "pointName": "15.推送修改的文件及冲突解决",
+              "parentId": 111949,
+              "sort": 13,
+              "moduleVideoId": null,
+              "videoId": 10084421,
+              "ccVideoId": "105A2402D79C6D1D9C33DC5901307461",
+              "studyStatus": 2,
+              "videoH5Url": null
+            },
+            {
+              "pointId": 10084704,
+              "pointName": "16.搭建私有git服务器",
+              "parentId": 111949,
+              "sort": 14,
+              "moduleVideoId": null,
+              "videoId": 10084422,
+              "ccVideoId": "906581CD9BED08429C33DC5901307461",
+              "studyStatus": 2,
+              "videoH5Url": null
+            },
+            {
+              "pointId": 10084705,
+              "pointName": "17.使用私有服务器上传下载代码",
+              "parentId": 111949,
+              "sort": 15,
+              "moduleVideoId": null,
+              "videoId": 10084423,
+              "ccVideoId": "4BAC5C5B5625D8319C33DC5901307461",
+              "studyStatus": 2,
+              "videoH5Url": null
+            },
+            {
+              "pointId": 10084706,
+              "pointName": "18.分支概念说明",
+              "parentId": 111949,
+              "sort": 16,
+              "moduleVideoId": null,
+              "videoId": 10084424,
+              "ccVideoId": "DF1BCD92706053159C33DC5901307461",
+              "studyStatus": 2,
+              "videoH5Url": null
+            },
+            {
+              "pointId": 10084707,
+              "pointName": "19.分支的合并删除",
+              "parentId": 111949,
+              "sort": 17,
+              "moduleVideoId": null,
+              "videoId": 10084425,
+              "ccVideoId": "F0E2B1668FA7A5C69C33DC5901307461",
+              "studyStatus": 2,
+              "videoH5Url": null
+            }
+          ],
+          "isSectionTest": 0,
+          "isHomework": 0,
+          "sectionTestStatus": 0
+        },
+        {
+          "sectionId": 111950,
+          "sectionName": "在Idea中使用git",
+          "isTry": null,
+          "parentId": 101703,
+          "isPass": 0,
+          "sort": 5,
+          "pointItems": [
+            {
+              "pointId": 10084708,
+              "pointName": "20.使用Idea将工程添加到本地仓库",
+              "parentId": 111950,
+              "sort": 1,
+              "moduleVideoId": null,
+              "videoId": 10084426,
+              "ccVideoId": "2662BCDD5B8B7B359C33DC5901307461",
+              "studyStatus": 2,
+              "videoH5Url": null
+            },
+            {
+              "pointId": 10084709,
+              "pointName": "21.使用Idea克隆仓库并同步代码",
+              "parentId": 111950,
+              "sort": 2,
+              "moduleVideoId": null,
+              "videoId": 10084427,
+              "ccVideoId": "D9A9EA568110B8EE9C33DC5901307461",
+              "studyStatus": 2,
+              "videoH5Url": null
+            },
+            {
+              "pointId": 10084710,
+              "pointName": "22.在Idea中使用git的分支",
+              "parentId": 111950,
+              "sort": 3,
+              "moduleVideoId": null,
+              "videoId": 10084428,
+              "ccVideoId": "96874C2B3BA607B99C33DC5901307461",
+              "studyStatus": 2,
+              "videoH5Url": null
+            }
+          ],
+          "isSectionTest": 0,
+          "isHomework": 0,
+          "sectionTestStatus": 0
+        }
+      ]
+    }
+  }
+}
